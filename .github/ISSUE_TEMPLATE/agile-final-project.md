@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: agile final project
+name: agile final project
+about: The IBM introduction to agile development and crumb final project
 title: ''
 labels: ''
 assignees: ''
